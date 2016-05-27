@@ -1,0 +1,14 @@
+layout_spectrum: 0.6680152
+typography_spectrum: 0.1439589
+color:
+  saturation: 0.01627167
+  lightness: 0.3384788
+  brandStrength: 0.8287607
+  rhythmicContrast: 0.5523908
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: NAG
